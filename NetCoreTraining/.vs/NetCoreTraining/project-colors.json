@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "34db3fff-4ca6-4ff3-934e-656425f02922": {
+      "ProjectGuid": "34db3fff-4ca6-4ff3-934e-656425f02922",
+      "DisplayName": "NetCoreTraining",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "94fe8ea0-9ecd-477f-a484-445ac25fe4e2": {
+      "ProjectGuid": "94fe8ea0-9ecd-477f-a484-445ac25fe4e2",
+      "DisplayName": "DataAccess.EFCore",
+      "ColorIndex": 1
+    },
+    "3c6f21dd-f4cd-4362-a6f4-ca4cd7539987": {
+      "ProjectGuid": "3c6f21dd-f4cd-4362-a6f4-ca4cd7539987",
+      "DisplayName": "Domain",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,15 @@
+D:\Working\src\NetCore\NetCoreTraining\DataAccess.EFCore\obj\Debug\net6.0\DataAccess.EFCore.csproj.AssemblyReference.cache
+D:\Working\src\NetCore\NetCoreTraining\DataAccess.EFCore\obj\Debug\net6.0\DataAccess.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Working\src\NetCore\NetCoreTraining\DataAccess.EFCore\obj\Debug\net6.0\DataAccess.EFCore.AssemblyInfoInputs.cache
+D:\Working\src\NetCore\NetCoreTraining\DataAccess.EFCore\obj\Debug\net6.0\DataAccess.EFCore.AssemblyInfo.cs
+D:\Working\src\NetCore\NetCoreTraining\DataAccess.EFCore\obj\Debug\net6.0\DataAccess.EFCore.csproj.CoreCompileInputs.cache
+D:\Working\src\NetCore\NetCoreTraining\DataAccess.EFCore\bin\Debug\net6.0\DataAccess.EFCore.deps.json
+D:\Working\src\NetCore\NetCoreTraining\DataAccess.EFCore\bin\Debug\net6.0\DataAccess.EFCore.dll
+D:\Working\src\NetCore\NetCoreTraining\DataAccess.EFCore\bin\Debug\net6.0\ref\DataAccess.EFCore.dll
+D:\Working\src\NetCore\NetCoreTraining\DataAccess.EFCore\bin\Debug\net6.0\DataAccess.EFCore.pdb
+D:\Working\src\NetCore\NetCoreTraining\DataAccess.EFCore\bin\Debug\net6.0\Domain.dll
+D:\Working\src\NetCore\NetCoreTraining\DataAccess.EFCore\bin\Debug\net6.0\Domain.pdb
+D:\Working\src\NetCore\NetCoreTraining\DataAccess.EFCore\obj\Debug\net6.0\DataAccess.EFCore.csproj.CopyComplete
+D:\Working\src\NetCore\NetCoreTraining\DataAccess.EFCore\obj\Debug\net6.0\DataAccess.EFCore.dll
+D:\Working\src\NetCore\NetCoreTraining\DataAccess.EFCore\obj\Debug\net6.0\ref\DataAccess.EFCore.dll
+D:\Working\src\NetCore\NetCoreTraining\DataAccess.EFCore\obj\Debug\net6.0\DataAccess.EFCore.pdb
