@@ -1,5 +1,6 @@
 ﻿using Domain.Interfaces;
 using Microsoft.AspNetCore.Mvc;
+using NetCoreTraining.Models;
 
 namespace NetCoreTraining.Controllers
 {
@@ -11,6 +12,15 @@ namespace NetCoreTraining.Controllers
         public StudentController(IUnitOfWork unitOfWork)
         {
             _unitOfWork = unitOfWork;
+        }
+
+        //GET: api/Students
+        [HttpGet]
+        public IActionResult GetStudents()
+        {
+            var students =  _unitOfWork.Student.GetAll().ToList();
+            Console.WriteLine(students);
+            return null;
         }
     }
 }

@@ -58,3 +58,12 @@ D:\Working\src\NetCore\NetCoreTraining\NetCoreTraining\obj\Debug\net6.0\NetCoreT
 D:\Working\src\NetCore\NetCoreTraining\NetCoreTraining\obj\Debug\net6.0\ref\NetCoreTraining.dll
 D:\Working\src\NetCore\NetCoreTraining\NetCoreTraining\obj\Debug\net6.0\NetCoreTraining.pdb
 D:\Working\src\NetCore\NetCoreTraining\NetCoreTraining\obj\Debug\net6.0\NetCoreTraining.genruntimeconfig.cache
+D:\Working\src\NetCore\NetCoreTraining\NetCoreTraining\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Working\src\NetCore\NetCoreTraining\NetCoreTraining\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Working\src\NetCore\NetCoreTraining\NetCoreTraining\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Working\src\NetCore\NetCoreTraining\NetCoreTraining\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Working\src\NetCore\NetCoreTraining\NetCoreTraining\bin\Debug\net6.0\DataAccess.EFCore.dll
+D:\Working\src\NetCore\NetCoreTraining\NetCoreTraining\bin\Debug\net6.0\Domain.dll
+D:\Working\src\NetCore\NetCoreTraining\NetCoreTraining\bin\Debug\net6.0\DataAccess.EFCore.pdb
+D:\Working\src\NetCore\NetCoreTraining\NetCoreTraining\bin\Debug\net6.0\Domain.pdb
+D:\Working\src\NetCore\NetCoreTraining\NetCoreTraining\obj\Debug\net6.0\NetCoreTraining.MvcApplicationPartsAssemblyInfo.cs
